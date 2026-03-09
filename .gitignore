@@ -1,0 +1,12 @@
+# Ignore environments
+nlp_env/
+.env
+
+# Ignore data and model outputs
+*.json
+*.csv
+*.parquet
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+__pycache__/
